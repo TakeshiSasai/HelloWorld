@@ -1,6 +1,3 @@
-# HelloWorld
-Go言語でハローワールド
-
 package main
 
 import(
